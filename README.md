@@ -1,5 +1,6 @@
+# Proyectos de SIP
 ## Indice
-1. [General Info](#general-info)
+1. [Generalidades del proyecto]
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
@@ -12,7 +13,7 @@ Escribe la descripción del proyecto
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-> Mikel Escobar: Regional Consultant
+> Juan Perez: Regional Consultant
 
 ### Control de versiones
 ***
